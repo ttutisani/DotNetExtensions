@@ -69,6 +69,7 @@
   <ItemGroup>
     <Compile Include="ReadOnlyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TryParseTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

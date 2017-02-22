@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExtensions", "DotNetE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExtensions.UnitTests", "DotNetExtensions.UnitTests\DotNetExtensions.UnitTests.csproj", "{EE0F7D32-4BE1-45B8-A4F2-9BB364AD7DAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExtensions.Samples", "DotNetExtensions.Samples\DotNetExtensions.Samples.csproj", "{836B6042-3CB7-40F6-8998-8078CBAA2C62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EE0F7D32-4BE1-45B8-A4F2-9BB364AD7DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE0F7D32-4BE1-45B8-A4F2-9BB364AD7DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE0F7D32-4BE1-45B8-A4F2-9BB364AD7DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836B6042-3CB7-40F6-8998-8078CBAA2C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836B6042-3CB7-40F6-8998-8078CBAA2C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836B6042-3CB7-40F6-8998-8078CBAA2C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836B6042-3CB7-40F6-8998-8078CBAA2C62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\bin\Debug\DotNetExtensions.Samples.exe.config
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\bin\Debug\DotNetExtensions.Samples.exe
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\bin\Debug\DotNetExtensions.Samples.pdb
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\bin\Debug\DotNetExtensions.dll
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\bin\Debug\DotNetExtensions.pdb
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\obj\Debug\DotNetExtensions.Samples.csprojResolveAssemblyReference.cache
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\obj\Debug\DotNetExtensions.Samples.exe
+C:\Users\Tengiz\Documents\Github\DotNetExtensions\DotNetExtensions.Samples\obj\Debug\DotNetExtensions.Samples.pdb

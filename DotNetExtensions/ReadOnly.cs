@@ -13,6 +13,11 @@
         {
             return readOnly.Value;
         }
+
+        public override string ToString()
+        {
+            return Value?.ToString();
+        }
     }
 
     public static class ReadOnly
