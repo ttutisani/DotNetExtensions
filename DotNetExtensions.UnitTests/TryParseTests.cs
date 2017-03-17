@@ -3,6 +3,7 @@ using FluentAssertions;
 
 namespace DotNetExtensions.UnitTests
 {
+    //TODO: rewrite using InlineData - I guess this all can become just one Theory?
     public sealed class TryParseTests
     {
         [Fact]
